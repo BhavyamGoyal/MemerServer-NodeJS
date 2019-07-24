@@ -15,6 +15,7 @@
 
 ## General Convention
 - Each route has its own script.
+- All the server logic will be inside API forlder or subfolder inside API.
 - DB manager will setup all the tables and change tables structurally.
 - Each table of the database will have a separate script that will perform any query on that table.
 
